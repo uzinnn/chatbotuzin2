@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
 
 # Show title and description.
-st.title("💬 uzin's Chatbot")
+st.title("💬 uzin's 재활용 도우미")
 st.write(
     "This is a simple chatbot that uses OpenAI's GPT-3.5 model to generate responses. "
     "gggggggggtttt575757575provide an OpenAI API key, which you can get [here](https://platform.openai.com/account/api-keys). "
